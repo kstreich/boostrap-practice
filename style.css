@@ -1,0 +1,23 @@
+.row {
+  height: 100px;
+  /*background-color: rgb(180, 177, 186);*/
+  /* margin: 1px; */
+  
+}
+
+
+
+h3{
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.words {
+  color: rgb(180, 177, 186);
+}
+.border43 {
+  border: 2px solid black;
+}
